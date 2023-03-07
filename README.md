@@ -1,5 +1,14 @@
 # Questions api BASE
 
+## TODO:
+
+- Pasar de un repositorio a plantilla
+  - anotar los nuevos pasos para iniciar y actualizar desde un repositorio que implemente la plantilla.
+- Agrega directorio kube
+- Revisar guards, quedará solo Token
+  - Ojo auth es el único que accede a cookies
+- Exponer en interfaces los structs que se comparten entre servicios.
+
 ## Ramas git
 
 Este procedimiento es importante para mantener la coherencia entre todo el proyecto.
