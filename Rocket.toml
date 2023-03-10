@@ -5,6 +5,7 @@ secret_key  = "OQ6ORGl54R2iJFmsABI9+gQ84xC7j4nivkK+WVfrLBI="
 profile_url = "http://localhost:8001/api/v1/profile"
 user_url    = "http://localhost:8002/api/v1/user"
 form_url    = "http://localhost:8004/api/v1/form"
+origin_url  = "http://localhost:4200"
 
 [default.databases.questions]
 url = "postgres://<user>:<password>@<host>/<db>"
